@@ -226,6 +226,5 @@ let button=document.querySelector('button');
 //  console.log(event.clientY); y-direction position
 });
 
-
 // button.addEventListener('mousedown')
 
