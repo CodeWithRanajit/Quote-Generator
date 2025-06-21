@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.main-div{
+  height: 100vh;
+  background-color: antiquewhite;
+  display:flex;
+}
+.inner-div-1{
+  display: flex;
+  height: 15rem;
+  width: 45rem;
+  background-color: azure;
+  margin: auto;
+  border-radius: 1rem;
+  flex-direction: column;
+}
+h1{
+  margin-left: 10rem;
+  padding-top: 2rem;
+}
+.inner-div-2{
+  width: 40rem;
+  height: 5rem;
+  background-color: rgb(204, 229, 236);
+  margin-top: 2.5rem;
+  margin-left: 2.4rem;
+  border-radius: 0.5rem;
+  font-size: 1.1rem;
+}
+.text{
+  text-align: center;
+  padding-top: 1.8rem;
+}
+.butt{
+  height: 25px;
+  width: 80px;
+  margin-top: 1rem;
+  margin-left: 19rem;
+  border-radius: 0.2rem;
+}
